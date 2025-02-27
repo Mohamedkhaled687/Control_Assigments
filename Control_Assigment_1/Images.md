@@ -1,4 +1,4 @@
-# ------ Answers of Problem 1 Sections -------
+# ------ Answers of Assigment 1 -------
 
 # Problem 1
 
