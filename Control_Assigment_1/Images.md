@@ -1,6 +1,6 @@
-# Answers of Problem 1 Sections
+# ------ Answers of Problem 1 Sections -------
 
-## Problem 1
+# Problem 1
 
 ### Problem 1 (a)
 
@@ -24,7 +24,7 @@
 
 
 
-## Problem 2
+# Problem 2
 
 ## Problem 2 (a)
 
@@ -45,3 +45,14 @@
 ## Problem 2(e)
 
 ![Image](https://github.com/user-attachments/assets/fbac8300-c724-4048-907b-b66b05d777fe)
+
+
+# Problem 3
+
+## Prolbem 3 (a)
+
+![Image](https://github.com/user-attachments/assets/3afd22d0-e283-48c8-a533-081a53390b77)
+
+## Problem 3(b)
+
+![Image](https://github.com/user-attachments/assets/8e4e317d-d425-42f5-a76c-4881c17df74c)
