@@ -24,3 +24,15 @@
 
 ### Error
 ![Image](https://github.com/user-attachments/assets/9dc4f94c-cf93-4686-987b-fbe33e0c6ce0)
+
+
+## Problem 1(c)
+
+### Code
+![Image](https://github.com/user-attachments/assets/067ba1b7-4f22-4677-836d-2eeb1662ba77)
+
+### Impulse Response
+![Image](https://github.com/user-attachments/assets/eea609c6-6720-4581-84a4-2b596a888073)
+
+### Time Constant and Static Gain
+![Image](https://github.com/user-attachments/assets/5c7ec39e-e11e-40f2-8108-c1a04a551097)
