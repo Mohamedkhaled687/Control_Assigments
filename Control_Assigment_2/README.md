@@ -10,5 +10,17 @@
 ### Respone for unit step input 
 ![Image](https://github.com/user-attachments/assets/1096c84d-068a-4ea4-8296-ba23b977add6)
 
-### System Informatino (Settling time)
+### System Information (Settling time)
 ![Image](https://github.com/user-attachments/assets/871519f0-7a79-4b7f-9658-5d8a1539b8b1)
+
+
+## Problem 1(b)
+
+### Code
+![Image](https://github.com/user-attachments/assets/3978c635-fa94-4f1f-bb56-2b8948263d12)
+
+### Respone for ramp input 
+![Image](https://github.com/user-attachments/assets/e7e715c6-8dba-4d6e-afe4-86b06d94eb18)
+
+### Error
+![Image](https://github.com/user-attachments/assets/9dc4f94c-cf93-4686-987b-fbe33e0c6ce0)
